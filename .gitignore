@@ -1,0 +1,3 @@
+.terraform.lock.hcl
+ansible-key.pem
+terraform-provider-aws_v4.55.0_x5
