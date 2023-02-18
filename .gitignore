@@ -1,3 +1,5 @@
 .terraform.lock.hcl
 ansible-key.pem
 terraform-provider-aws_v4.55.0_x5
+.terraform.tfstate.lock.info
+terraform.tfstate.backup
